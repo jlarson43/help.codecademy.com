@@ -9,4 +9,4 @@ In addition, as you earn points, you will be awarded Exercise Badges, which will
 
 The "December 29, 2013" will be the actual date you earned the badge.
 
-The observant student will note that after 1,000 points, there are no higher denominations. That's because once you get to that high number of points, you are obviously quite determined and self-motivated! We at Codecademy are proud of your accomplishment! Every point after 1,000 will surely be award enough! 
+The observant student will note that after 1,000 points, there are no higher denominations untill the 10,000 points badge. That's because once you get to that high number of points, you are obviously quite determined and self-motivated! We at Codecademy are proud of your accomplishment! Every point after 1,000 will surely be award enough! The 10,000 points badge is a final goal to reach for, to give you that extra little incentive.
